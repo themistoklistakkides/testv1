@@ -5,4 +5,4 @@ requests==2.24.0
 ta==0.5.25
 numpy==1.19.0
 streamlit==0.62.1
-talib
+Ta-lib
