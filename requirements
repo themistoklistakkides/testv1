@@ -1,0 +1,8 @@
+yfinance
+streamlit==1.11.0
+datetime 
+talib 
+ta
+pandas
+requests
+click==8
